@@ -1,0 +1,44 @@
+@font-face{
+  font-family: Helvetica Neue;
+  src: url(HelveticaNeue-Light.otf)
+}
+
+@font-face{
+  font-family: Helvetica-Neue2;
+  src: url(HelveticaNeue-UltraLight.otf)
+}
+
+body{
+  background-color: #F7FE2E;
+  font-family: Helvetica Neue;
+}
+
+h1{
+  font-size: 80px;
+  font-weight: 100;
+  color: black;
+  text-align: center;
+  margin: 80px auto 0px;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+  margin: 30px 630px 0 630px;
+}
+
+iframe{
+  margin: 30px 440px;
+  width: 450px;
+  height: 300px;
+}
+
+p{
+  text-align: center;
+  font-size: 20px;
+  color: #424242
+}
+
+#awesomeness{
+  font-size: 24px;
+}
